@@ -11,19 +11,20 @@ The project investigates the use of a continuous-time chaotic Jerk system as the
 - Case 02: Classification of anomalies during a real-world DDoS event using the RIPE DDoS2020 dataset.
 
 ## Repository Structure
-
+````
 ├── Case 01/
-│ ├── KDDTrain+.txt
-│ ├── KDDTest+.txt
-│ ├── main5.ipynb
-│ ├── pyESN.py
+│   ├── KDDTrain+.txt
+│   ├── KDDTest+.txt
+│   ├── main5.ipynb
+│   ├── pyESN.py
 ├── Case 02/
-│ ├── rrc14main.ipynb
-│ ├── fig_compare_article.svg
-│ ├── fig_compare_article.pdf
-│ ├── updates.*.{txt,gz}
+│   ├── rrc14main.ipynb
+│   ├── fig_compare_article.svg
+│   ├── fig_compare_article.pdf
+│   ├── updates.*.{txt,gz}
 ├── README.md
 ├── 25ICECS_RC_NN.pdf
+```
 
 ## Case 01: NSL-KDD DoS Attack Detection
 
