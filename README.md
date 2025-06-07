@@ -56,7 +56,7 @@ This case study evaluates the Jerk-based reservoir on a real-world dataset captu
   - Construction of temporal input windows
   - Simulation of the Jerk system as a reservoir
   - Feature extraction and classification using a Random Forest
-  - Comparative evaluation with ESN baselines reported in prior literature:contentReference[oaicite:3]{index=3}.
+  - Comparative evaluation with ESN baselines reported in prior literature:Reference [3] from the article.
 - `fig_compare_article.pdf` and `fig_compare_article.svg`: Figures generated for the article, comparing the performance of the proposed Jerk-based model and ESN baselines.
 - `updates.*.{txt,gz}`: Raw RIPE Routing Information Service (RIPE RIS) BGP update files used as input data.
 
